@@ -38,3 +38,5 @@ resource "aws_instance" "web" {
     Name = "terraform-atlantis"
   }
 }
+
+# end of file
